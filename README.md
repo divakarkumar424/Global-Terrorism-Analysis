@@ -24,6 +24,7 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 * 'Nationality': People nationality who killed and wounded by terrorist attack.
 * 'Weapon_type': Types of weapons used during attack 
 * 'Hostages/Kidnapping': No people hostages or kidnapped.
+
 --------------------------------------------------------------------------------------------
 
 ### Overview:
@@ -42,6 +43,7 @@ Technology and tools wise this project covers,
 6.Google Colab Notebook
 
 ---------------------------------------------------------------------------------------
+
 ### Technologies Used:
 ![image](https://user-images.githubusercontent.com/32620288/137515386-d8d1eaf4-df60-455b-aa6e-b30f5a88b800.png)
 
